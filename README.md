@@ -1,5 +1,10 @@
 ![Logo do Git](https://pythonforundergradengineers.com/posts/git/images/git_and_github_logo.png)
 
+[Bem vindo](#bem-vindo-ao-curso-Git-e-Github)
+[Módulos](#Modulos)
+[Rede Social](#rede-social)
+[Comandos](#comando-para-rodar-o-projeto)
+
 # Bem vindo ao curso Git e Github.
 Neste curso você vai dominar todo o **git** e **github** _do zero ao profissional._
 
@@ -30,7 +35,7 @@ Neste curso você vai dominar todo o **git** e **github** _do zero ao profission
 >
 > Segunda linha do Blockquod
 
-**Comando para rodar o projeto:**
+### Comando para rodar o projeto:
 ```
 npm start
 ```
@@ -60,7 +65,7 @@ function showName(nome){
 
 Propriedade | Descrição
 ----------- | ---------
-name | Informar o nome do usuário
+name | Informar o **nome** do usuário
 size | Para definir o tamanho do campo
-background | Cor de fundo da área em HEX
+background | Cor de fundo da área em _HEX_
 onPress | Função chamada quando clicar no botão
