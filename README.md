@@ -1,7 +1,7 @@
 ![Logo do Git](https://pythonforundergradengineers.com/posts/git/images/git_and_github_logo.png)
 
-[Bem vindo](#bem-vindo-ao-curso-Git-e-Github)
-[Módulos](#Modulos)
+[Bem vindo](#bem-vindo-ao-curso-git-e-github)
+[Módulos](#modulos)
 [Rede Social](#rede-social)
 [Comandos](#comando-para-rodar-o-projeto)
 
