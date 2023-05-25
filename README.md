@@ -20,3 +20,35 @@ Neste curso você vai dominar todo o **git** e **github** _do zero ao profission
 [Instagram](https://instagram.com/sujeitoprogramador)
 
 [Youtube](https://youtube.com/c/sujeitoprogramador)
+
+> Texto fica em destaque com o sinal de maior
+>
+> Segunda linha do Blockquod
+
+**Comando para rodar o projeto:**
+```
+npm start
+```
+
+**Exemplo de uso do script:**
+```js
+function showName(nome){
+    return 'Bem vindo: ' + nome;
+}
+```
+
+**Uso do componente HTML:**
+```html
+<h1>
+    Titulo do projeto
+    <span>Curso Gut</span>    
+</h1>
+```
+
+**CSS padrão do projeto:**
+```css
+.title{
+    background-color: #FFF;
+    color: #FF0000;
+}
+```
